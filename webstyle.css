@@ -1,6 +1,6 @@
 .header {
 
-  background-color: #16213e;
+  background-color: #16213E;
 }
 
 body {
@@ -64,5 +64,41 @@ margin-top: 50px;
 .greetings {
 
 color: #E94560;
-font: 1.3em "Gotham", sans-serif;
+font: 1.6em "Gotham", sans-serif;
+font-weight: bold;
+ }
+
+ .Capability {
+
+   margin-top: 150px;
+ }
+
+ .Developer {
+
+   margin-top: 150px;
+ }
+
+ .help {
+   margin-top: 100px;
+   color: #533483;
+   font: 3em "Gotham", sans-serif;
+ }
+
+ .avail {
+   color: #E94560;
+   font: 1.5em "Gotham", sans-serif;
+   font-weight: bold;
+ }
+
+ .size {
+
+   font-size: 1.8em;
+ }
+
+ .style {
+margin-top: 20px;
+   font: 2em "VALORANT", sans-serif;
+   color: #E94560;
+   border-style: double;
+   background-color: #533483;
  }
